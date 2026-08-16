@@ -8,7 +8,7 @@
 
 最近在做的一些项目：
 
-- [CnRuQi](https://github.com/CnRuQi/CnRuQi) —— 一个前后端分离的个人博客系统，枯木冷茶主题（Vue 3 + Express + SQLite）
+- [CRQHOMES](https://github.com/CnRuQi/CRQHOMES) —— 一个前后端分离的个人博客系统，枯木冷茶主题（Vue 3 + Express + SQLite）
 - [GuardPass](https://github.com/CnRuQi/GuardPass) —— Android 本地密码管理应用，加密存储 + WebDAV 同步（Kotlin）
 - [DailyHabitTrackingAPP](https://github.com/CnRuQi/DailyHabitTrackingAPP) —— 每日习惯追踪应用（Java + SQLite）
 
